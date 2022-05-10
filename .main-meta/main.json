@@ -3,10 +3,10 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.3.0",
-        "name": "com.microchip.mcu8.mplabx.project.avr64dd32-getting-started-with-gpio-mcc-mplabx",
+        "name": "com.microchip.mcu8.mplabx.project.avr64dd32-getting-started-with-gpio-mplabx-mcc",
         "version": "1.0.0",
         "displayName": "Getting Started with GPIO using the AVR64DD32 with MCC Melody",
-        "projectName": "avr64dd32-getting-started-with-gpio-mcc-mplabx",
+        "projectName": "avr64dd32-getting-started-with-gpio-mplabx-mcc",
         "shortDescription": "Guide for using GPIO on the AVR64DD32 microcontroller.",
         "ide": {
             "name": "MPLAB X",
